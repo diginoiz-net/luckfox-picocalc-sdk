@@ -13,3 +13,6 @@ git remote add origin https://github.com/diginoiz-net/luckfox-picocalc-sdk.git
 git branch -M main
 git push -u origin main
 
+
+github側で編集した
+
