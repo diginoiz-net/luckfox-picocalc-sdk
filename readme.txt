@@ -16,3 +16,7 @@ git push -u origin main
 
 github側で編集した
 
+git pull　で引っ張ってこれた
+
+ローカルで再度編集した
+
