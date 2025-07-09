@@ -1,0 +1,5 @@
+config BR2_PACKAGE_FDCLONE
+	bool "fdclone"
+	help
+		A console-based file manager, a clone of FD for DOS.
+
